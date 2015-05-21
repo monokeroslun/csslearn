@@ -1,0 +1,23 @@
+{
+  "name": "csslearn",
+  "version": "1.0.0",
+  "description": "self learn about css",
+  "main": "index.js",
+  "scripts": {
+    "start":"webpack-dev-server --content-base content/ --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monokeroslun/csslearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monokeroslun/csslearn/issues"
+  },
+  "homepage": "https://github.com/monokeroslun/csslearn",
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "webpack-dev-server": "^1.8.2"
+  }
+}
